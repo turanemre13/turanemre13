@@ -1,4 +1,4 @@
-I am senior computer science student at Bilkent University
+Computer science student at Bilkent University
 
 <!---
 turanemre13/turanemre13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
